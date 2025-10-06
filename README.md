@@ -3,11 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md%20Fahim%20Sarker%20Mridul&fontSize=50&fontAlignY=45&animation=fadeIn" alt="Banner" style="width:100%;" />
   
   <br>
-  <img src="https://komarev.com/ghpvc/?username=fahiiim&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-
-  <div style="font-size: 20px; font-family: monospace;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=91a1ff&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Data+Scientist;Computer+Vision+Developer;LLM+%26+NLP+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
+   <div style="font-size: 30px; font-family: monospace; align = "center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=91a1ff&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Data+Scientist;Computer+Vision+Developer;LLM+%26+NLP+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
   </div>
+  <img src="https://komarev.com/ghpvc/?username=fahiiim&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -15,7 +14,6 @@
 <div align="center">
   <a href="https://linkedin.com/in/fahim153" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.kaggle.com/fahimsarker" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/></a>
   <a href="mailto:fahimsarker0805@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </div>
 
@@ -25,76 +23,113 @@
 
 <div align="center">
   <h3>
-    Hey there, I'm Fahim! 👋
+    Hello, I'm Fahim! 👋
   </h3>
   <p>
-    An enthusiastic AI and Machine Learning developer with a strong focus on building innovative solutions using Deep Learning, Computer Vision, and NLP. I thrive on transforming complex data into meaningful insights and enjoy tackling challenging problems with clean, efficient code.
+    A passionate AI/ML engineer and data scientist with a focus on building robust and scalable solutions using deep learning, computer vision, and natural language processing. I have a strong ability to transform complex data into actionable insights and build cutting-edge AI applications.
   </p>
 </div>
 
 ---
 
-<!-- SKILLS & TECHNOLOGIES -->
-<h2 align="center">🛠️ Tech Stack & Expertise</h2>
-<br>
+<!-- PROFESSIONAL SKILLS & EXPERTISE -->
+<h2 align="center">Professional Skills & Expertise</h2>
 
 <table width="100%">
   <tr>
-    <td width="30%" align="center">
-      <h4>💻 Programming Languages</h4>
+    <td width="50%" align="left">
+      <h3>Programming Languages</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" height="50" alt="Programming Languages"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB"/>
+        <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
       </p>
     </td>
-    <td width="70%">
-      <div align="center">
-        <h4>🤖 Machine Learning & AI</h4>
-        <p>
-          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,keras&theme=dark" height="50" alt="ML/AI Icons"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="50" alt="HuggingFace Icon" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/XGBoost-1C9EDD?style=flat&logo=xgboost&logoColor=white" alt="XGBoost"/>
-          <img src="https://img.shields.io/badge/LightGBM-4A5964?style=flat&logo=lightgbm&logoColor=white" alt="LightGBM"/>
-          <img src="https://img.shields.io/badge/CatBoost-479669?style=flat&logo=catboost&logoColor=white" alt="CatBoost"/>
-          <img src="https://img.shields.io/badge/MLflow-0098F5?style=flat&logo=mlflow&logoColor=white" alt="MLflow"/>
-          <img src="https://img.shields.io/badge/Weights & Biases-FFFFFF?style=flat&logo=weights-and-biases&logoColor=black" alt="Weights & Biases"/>
-        </p>
-      </div>
+    <td width="50%" align="left">
+      <h3>Machine Learning & AI</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/HuggingFace-00A0D0?style=flat-square&logo=huggingface&logoColor=white" alt="HuggingFace"/>
+        <img src="https://img.shields.io/badge/XGBoost-1C9EDD?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
+        <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+        <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green " alt="LangChain "/>
+        <img src="https://img.shields.io/badge/LangGraph-0.2.56-green?style=flat-square" alt="LangGraph "/>
+        <img src="https://img.shields.io/badge/-OpenAI%20API-eee?style=flat-square&logo=openai&logoColor=412991" alt="OpenAI API"/>
+        <img src="https://img.shields.io/badge/DL-Deep%20Learning-blue" alt="Deep Learning "/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-Machine%20Learning-blue " alt="Machine Learning "/>
+  </tr>
+  <tr>
+    <td width="50%" align="left">
+      <h3>Computer Vision</h3>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/YOLOv5-000000?style=flat-square&logo=yolo&logoColor=white" alt="YOLO"/>
+        <img src="https://img.shields.io/badge/MediaPipe-FF4D00?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe"/>
+        <img src="https://img.shields.io/badge/Detectron2-FF6F00?style=flat-square&logo=detectron2&logoColor=white" alt="Detectron2"/>
+        <img src="https://img.shields.io/badge/-YOLO-FFCC00?style=flat&logo=python&logoColor=white&size=40x40 " alt="YOLO "/>
+      </p>
+    </td>
+    <td width="50%" align="left">
+      <h3>Data Science</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+        <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+        <img src="https://img.shields.io/badge/Seaborn-FF5A5F?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="30%" align="center">
-      <h4>📊 Data Science & Analytics</h4>
+    <td width="50%" align="left">
+      <h3>Natural Language Processing</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=numpy,pandas,scipy&theme=dark" height="50" alt="Data Science Icons"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib Icon"/>
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/seaborn.svg" height="50" alt="Seaborn Icon"/>
+        <img src="https://img.shields.io/badge/NLTK-3C8D8D?style=flat-square&logo=nltk&logoColor=white" alt="NLTK"/>
+        <img src="https://img.shields.io/badge/spaCy-4C6E72?style=flat-square&logo=spacy&logoColor=white" alt="spaCy"/>
+        <img src="https://img.shields.io/badge/BERT-7F4A03?style=flat-square&logo=bert&logoColor=white" alt="BERT"/>
+        <img src="https://img.shields.io/badge/GPT-FF7A7A?style=flat-square&logo=openai&logoColor=white" alt="GPT"/>
       </p>
     </td>
-    <td width="70%">
-      <div align="center">
-        <h4>🖼️ Computer Vision & NLP</h4>
-        <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV Icon"/>
-          <img src="https://img.shields.io/badge/YOLOv5%2Fv8-000000?style=flat&logo=yolo&logoColor=white" alt="YOLO"/>
-          <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="50" alt="PyTorch Vision"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" height="50" alt="NLTK Icon"/>
-          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spacy.svg" height="50" alt="SpaCy Icon"/>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/HuggingFace_Transformers-FFBEB3?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/>
-          <img src="https://img.shields.io/badge/LangChain-111111?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
-          <img src="https://img.shields.io/badge/LLMs-F6F6F6?style=flat&logo=llm&logoColor=black" alt="LLMs"/>
-        </p>
-      </div>
+    <td width="50%" align="left">
+      <h3>Development Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <h4>⚙️ Tools & Platforms</h4>
+    <td width="50%" align="left">
+      <h3>Cloud & Deployment</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=github,git,jupyter,docker,mysql,linux,flask,fastapi,react,gcp,aws&theme=dark" height="50" alt="Tools & Platforms Icons"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+        <img src="https://img.shields.io/badge/Azure-0085CA?style=flat-square&logo=azure&logoColor=white" alt="Azure"/>
+      </p>
+    </td>
+    <td width="50%" align="left">
+      <h3>Databases & Big Data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+        <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=hadoop&logoColor=white" alt="Hadoop"/>
+        <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark"/>
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
       </p>
     </td>
   </tr>
@@ -103,7 +138,7 @@
 ---
 
 <!-- GITHUB STATS & ACTIVITY -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 <div align="center">
   <a href="https://github.com/fahiiim"><img src="https://github-readme-stats.vercel.app/api?username=fahiiim&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats"/></a>
   <a href="https://github.com/fahiiim"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahiiim&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages"/></a>
@@ -113,26 +148,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fahiiim&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
----
-
-<!-- FEATURED PROJECTS -->
-<h2 align="center">💡 Featured Projects</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fahiiim/fahiiim/main/project.png" alt="Project Showcase" />
-</p>
-
-<!-- Optional: WakaTime Coding Activity (if you use it) -->
-<!-- <h2 align="center">⏳ Daily Development</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahiiim&theme=vue-dark&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</div> -->
 
 ---
 
 <!-- CONTACT & QUOTE -->
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 <p align="center">
-  Feel free to reach out for collaborations or just a chat.
+  Feel free to reach out for collaborations, opportunities, or insightful discussions.
 </p>
 <div align="center">
   <a href="mailto:fahimsarker0805@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-fahimsarker0805@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"/></a>
