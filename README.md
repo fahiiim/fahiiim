@@ -131,8 +131,10 @@
         <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=hadoop&logoColor=white" alt="Hadoop"/>
         <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark"/>
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+        <img src="https://img.shields.io/badge/ChromaDB-Vector_Database-0078FF?style=flat&logo=chromadb&logoColor=white" alt="ChromaDB"/>
+        <img src="https://img.shields.io/badge/pinecone-connected-blueviolet?logo=pinecone" alt="PineCone"/>
+        <img src="https://img.shields.io/badge/database-Faiss-blue" alt="FAISS"/>
       </p>
-    </td>
   </tr>
 </table>
 
