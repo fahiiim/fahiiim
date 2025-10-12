@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md%20Fahim%20Sarker%20Mridul&fontSize=50&fontAlignY=45&animation=fadeIn" alt="Banner" style="width:100%;" /> 
   <br>
   <div style="font-size: 30px; font-family: monospace; text-align: center;"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=91a1ff&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Data+Scientist;Computer+Vision+Developer;LLM+%26+NLP+Specialist;Passionate+Problem+Solver" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=91a1ff&vCenter=true&width=500&lines=AI+%26+ML+Best+Project+Winner;Data+Science+Competition+Winner;Computer+Vision+Developer+High+Expertize;LLM+%26+NLP+Specialist+with+Unique+Projects;Passionate+Problem+Solver+ML+Competition+Winner" alt="Typing SVG" /> 
   </div> 
   <img src="https://komarev.com/ghpvc/?username=fahiiim&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </div>
@@ -78,6 +78,7 @@
         <img src="https://img.shields.io/badge/MediaPipe-FF4D00?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe"/>
         <img src="https://img.shields.io/badge/Detectron2-FF6F00?style=flat-square&logo=detectron2&logoColor=white" alt="Detectron2"/>
         <img src="https://img.shields.io/badge/-YOLO-FFCC00?style=flat&logo=python&logoColor=white&size=40x40 " alt="YOLO "/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://gist.githubusercontent.com/{your_github_username}/{gist_id}/raw/badge.json&label=Model%20Version&query=$.version&color=green)](https://app.roboflow.com/..." alt="RoboFlow">
       </p>
     </td>
     <td width="50%" align="left">
@@ -120,6 +121,8 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
         <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
         <img src="https://img.shields.io/badge/Azure-0085CA?style=flat-square&logo=azure&logoColor=white" alt="Azure"/>
+        <img src="https://img.shields.io/badge/Project-SageMaker%20%26%20Shield-orange" alt="Amazon Sagemaker"/>
+        <img src="https://img.shields.io/badge/MLflow%20Project-MyProject-darkblue" alt="MLflow"/>
       </p>
     </td>
     <td width="50%" align="left">
