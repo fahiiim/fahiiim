@@ -151,7 +151,6 @@
   <br>
   <a href="https://github.com/fahiiim"><img src="https://github-profile-trophy.vercel.app/?username=fahiiim&theme=radical&no-frame=true" alt="GitHub Trophies"/></a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fahiiim&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 
