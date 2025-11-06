@@ -146,9 +146,6 @@
 <!-- GITHUB STATS & ACTIVITY -->
 <h2 align="center">GitHub Analytics</h2>
 <div align="center">
-  <a href="https://github.com/fahiiim"><img src="https://github-readme-stats.vercel.app/api?username=fahiiim&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats"/></a>
-  <a href="https://github.com/fahiiim"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahiiim&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages"/></a>
-  <br>
   <a href="https://github.com/fahiiim"><img src="https://github-profile-trophy.vercel.app/?username=fahiiim&theme=radical&no-frame=true" alt="GitHub Trophies"/></a>
   <br>
 </div>
