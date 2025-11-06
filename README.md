@@ -22,7 +22,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); padding: 50px 20px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); max-width: 700px; margin: 20px auto;">
   <h3 style="font-family: 'Fira Sans', sans-serif; font-size: 40px; color: white; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
-    Hello, I'm Fahim! 👋
+    Hello, Take Greetings from Fahim!
   </h3>
   <p style="font-family: 'Roboto', noto-emoji; font-size: 18px; color: #f0f0f0; line-height: 1.6; letter-spacing: 0.5px; max-width: 600px; margin: 0 auto;">
     A passionate AI/ML engineer and data scientist with a focus on building robust and scalable solutions using deep learning, computer vision, and natural language processing. I have a strong ability to transform complex data into actionable insights and build 
