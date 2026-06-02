@@ -346,12 +346,16 @@ Real-time YOLOv8 detection — vehicles, license plates, non-helmet bikers — w
 <!--                     GITHUB ANALYTICS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=1&pause=99999&color=7C3AED&background=0D1117&center=false&vCenter=true&width=500&height=45&lines=%E2%96%A0+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=1&pause=99999&color=7C3AED&background=0D1117&center=false&vCenter=true&width=600&height=45&lines=%F0%9F%8F%86+ACHIEVEMENTS+%26+GITHUB+MILESTONES" alt="Achievements & GitHub Milestones" />
 
 <div align="center">
   <a href="https://github.com/fahiiim">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahiiim&theme=radical&no-frame=true&margin-w=6" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=fahiiim&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="GitHub Achievements"/>
   </a>
+
+  <br/><br/>
+
+  <i>Building impactful AI solutions, contributing to open source, and continuously learning every day </i>
 </div>
 
 <br/>
