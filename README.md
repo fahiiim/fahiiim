@@ -10,9 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/────%20LinkedIn%20────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahim153)
-[![Kaggle](https://img.shields.io/badge/────%20Kaggle%20────-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fahimsarker)
-[![Email](https://img.shields.io/badge/────%20Email%20────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahimsarker0805@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahim153)
+[![Kaggle](https://img.shields.io/badge/%20Kaggle%20-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fahimsarker)
+[![Email](https://img.shields.io/badge/%20Email%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahimsarker0805@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=fahiiim&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 
