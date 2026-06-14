@@ -205,7 +205,7 @@ Research  : Medical AI · Explainable AI · NLP · Computer Vision
 
 **`[ OSS ]`** &nbsp; **NeuroGebra Framework** — Open-Source AI Mathematics Library &nbsp; [![PyPI](https://img.shields.io/badge/PyPI-Published-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/neurogebra/) &nbsp; [![DOI](https://img.shields.io/badge/DOI-10.5281%2FZENODO.18869365-1e40af?style=flat-square)](https://doi.org/10.5281/ZENODO.18869365)
 > - Executable AI mathematics framework — real-time visualization of core ML formulas during training to make neuron behavior transparent
-> - Adopted by students and researchers as a PyTorch/TensorFlow companion · Docs at [neurogebra.readthedocs.io](https://neurogebra.readthedocs.io)
+> - Adopted by students and researchers as a PyTorch/TensorFlow companion · Documentation at [neurogebra.readthedocs.io](https://neurogebra.readthedocs.io)
 
 <br/>
 
