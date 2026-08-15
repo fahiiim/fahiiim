@@ -134,11 +134,37 @@ Production-grade legal assistant for **U.S. Federal and Michigan State law**, po
 
 Production-grade **AI-powered intake and workflow automation platform** that processes requests from WhatsApp and Outlook, analyzes text and images, detects missing information, classifies risk, and intelligently routes requests for automated or human-assisted action.
 
-**AI Capabilities:** Detail extraction, image style analysis, missing-information detection, artist recommendation, and risk classification.
+**AI Capabilities:** Detail extraction, image style analysis, missing-information detection, artist recommendation, and risk classification. Low-risk requests receive automated AI responses, while high-risk cases are escalated to a **Telegram Command Center** for human review and approval.
 
-**Automation:** Low-risk requests receive automated AI responses, while high-risk cases are escalated to a **Telegram Command Center** for human review and approval.
+  </td>
+  </tr>
 
-**Infrastructure:** Custom FastAPI backend deployed on **AWS** with automated **CI/CD pipelines** for reliable production deployment and updates.
+  <tr>
+    <td colspan="2" valign="top">
+
+### Daily Storybook AI
+<i>Currently in Apple Apstore Testflight Mode</i>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-8957E5?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/64078c44-6cc4-4f3e-a443-164164c23dc6" />
+
+Scalable event-driven backend for an AI-powered fitness storybook platform using **FastAPI, PostgreSQL, Redis, Docker, ECS, SQS, S3, Bedrock, and EC2**.
+
+Heavy AI workloads were decoupled from the main API using an event-driven microservices architecture to eliminate timeouts and improve system reliability.
+
+[![Read Case Study](https://img.shields.io/badge/READ_CASE_STUDY-1F6FEB?style=flat-square&logo=github&logoColor=white)](https://github.com/fahiiim/Case-Study-of-Daily-Storybook-App/blob/main/AI%20Storybook%20%26%20Fitness%20Platform%20-%20Case%20Study.pdf)
 
   </td>
   </tr>
@@ -349,79 +375,6 @@ Focus Areas : Generative AI · NLP · Computer Vision · MLOps · XAI
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-  </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=1&pause=99999&color=58A6FF&center=false&vCenter=true&width=620&height=46&lines=%E2%97%86+FEATURED+PROJECTS" alt="Featured Projects"/>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### `[ 01 ]` Right Route App
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Textract](https://img.shields.io/badge/Textract-FF9900?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-AI-powered route-processing pipeline that extracts route data automatically from U.S. permit documents.
-
-[![Open Project](https://img.shields.io/badge/OPEN_PROJECT-2EA043?style=flat-square&logo=googlechrome&logoColor=white)](https://getrightroute.app/)
-
-  </td>
-    <td width="50%" valign="top">
-
-### `[ 02 ]` Legal RAG Assistant
-
-![LangChain](https://img.shields.io/badge/LangChain-white?style=flat-square&logo=langchain&logoColor=green)
-![FAISS](https://img.shields.io/badge/FAISS-1d4ed8?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-Production legal assistant supporting semantic search and question answering across U.S. Federal and Michigan State law.
-
-[![Open Project](https://img.shields.io/badge/OPEN_PROJECT-8957E5?style=flat-square&logo=googlechrome&logoColor=white)](https://casezys.com/)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### `[ 03 ]` Daily Storybook AI
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-8957E5?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-Scalable event-driven backend for an AI-powered fitness storybook platform using FastAPI, PostgreSQL, ECS, SQS, S3, Bedrock, and EC2.
-
-Heavy AI workloads were decoupled from the main API to eliminate timeouts and improve system reliability.
-
-[![Read Case Study](https://img.shields.io/badge/READ_CASE_STUDY-1F6FEB?style=flat-square&logo=github&logoColor=white)](https://github.com/fahiiim/Case-Study-of-Daily-Storybook-App/blob/main/AI%20Storybook%20%26%20Fitness%20Platform%20-%20Case%20Study.pdf)
-
-  </td>
-    <td width="50%" valign="top">
-
-### `[ 04 ]` ViolaShield
-
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-EA580C?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Smart traffic-violation detection system for identifying vehicles, license plates, and non-helmet riders.
-
-Automatically generates fines and sends alert emails. Awarded the **Best Innovation Award** at the IDP-1 University Project Showcase.
 
   </td>
   </tr>
