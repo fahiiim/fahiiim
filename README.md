@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:8957E5&height=210&section=header&text=MD%20FAHIM%20SARKER%20MRIDUL&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20AI%20Systems%20Builder&descSize=16&descAlignY=58" alt="MD Fahim Sarker Mridul"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&height=45&lines=Mid-Level+AI+Engineer+%40+SparkTech+Agency;Building+Production+RAG%2C+OCR%2C+NLP+%26+CV+Systems;10%2B+Production+AI+Systems+Delivered;Open-Source+Author+%7C+NeuroGebra+on+PyPI;Turning+Complex+AI+Into+Products+People+Can+Use" alt="Professional titles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&height=45&lines=Mid-Level+AI+Engineer+%40+SparkTech+Agency;Building+Production+RAG%2C+OCR%2C+NLP+%26+CV+Systems;12%2B+Production+AI+Systems+Delivered;Open-Source+Author+%7C+NeuroGebra+on+PyPI;Turning+Complex+AI+Into+Products+People+Can+Use" alt="Professional titles"/>
 
 <br/>
 
