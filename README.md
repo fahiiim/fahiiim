@@ -134,8 +134,6 @@ Production-grade legal assistant for **U.S. Federal and Michigan State law**, po
 
 Production-grade **AI-powered intake and workflow automation platform** that processes requests from WhatsApp and Outlook, analyzes text and images, detects missing information, classifies risk, and intelligently routes requests for automated or human-assisted action.
 
-**AI Capabilities:** Detail extraction, image style analysis, missing-information detection, artist recommendation, and risk classification. Low-risk requests receive automated AI responses, while high-risk cases are escalated to a **Telegram Command Center** for human review and approval.
-
   </td>
   </tr>
 
