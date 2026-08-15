@@ -52,14 +52,13 @@ cross-functional teams and build scalable **backend systems with FastAPI, RAG, O
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    LIVE AI APPLICATIONS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=1&pause=99999&color=58A6FF&center=false&vCenter=true&width=620&height=46&lines=%E2%97%86+LIVE+AI+APPLICATIONS" alt="Live AI Applications"/>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 
-###  [Right Route App](https://getrightroute.app/)
+### [Right Route App](https://getrightroute.app/)
 
 [![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://getrightroute.app/)
 
@@ -69,14 +68,17 @@ cross-functional teams and build scalable **backend systems with FastAPI, RAG, O
 ![NLP](https://img.shields.io/badge/NLP-1F6FEB?style=flat-square)
 ![Textract](https://img.shields.io/badge/AWS%20Textract-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
+<img width="450" height="106.5" alt="image" src="https://github.com/user-attachments/assets/b11860c9-4307-4ae2-92ed-f435d1833440" />
+
 AI-powered U.S. route-processing platform that extracts route information automatically from permit documents using AWS Textract, OpenAI, NLP, and FastAPI.
 
 **Contribution:** System architecture and end-to-end AI route-processing pipeline.
 
   </td>
-    <td width="50%" valign="top">
 
-### ⚖️ [CaseZys: The USA Legal RAG Assistant](https://casezys.com/)
+  <td width="50%" valign="top">
+
+### [CaseZys: The USA Legal RAG Assistant](https://casezys.com/)
 
 [![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://casezys.com/)
 
@@ -85,16 +87,64 @@ AI-powered U.S. route-processing platform that extracts route information automa
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
+<img width="450" height="131.25" alt="image" src="https://github.com/user-attachments/assets/fe12c12d-f36b-4e3f-a4ad-dd8ea019749e" />
+
 Production-grade legal assistant for **U.S. Federal and Michigan State law**, powered by semantic retrieval, article-level indexing, and LLM-based reasoning.
 
 **Performance:** Optimized retrieval and orchestration for sub-2-second responses.
 
   </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### [Quranity](https://quranity.app/en)
+
+[![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quranity.app/en)
+
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=flat-square&logo=langchain&logoColor=green)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-1d4ed8?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+<img width="1920" height="1105" alt="image" src="https://github.com/user-attachments/assets/b7fb680a-7cdd-42ab-aad3-a5d9ddbec8dd" />
+
+**Muslim AI** - Get instant answers to your spiritual questions with integrated AI, trained to provide context-aware guidance from reliable sources.
+
+**Role** - I was the R&D lead of that project, did the System feasibility test, and also architected the cloud system.
+
+  </td>
+
+  <td width="50%" valign="top">
+
+### [AI Risk-Based Intake & Automation Platform](#)
+
+[![Production System](https://img.shields.io/badge/PRODUCTION_SYSTEM-22C55E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<img width="1570" height="898" alt="diagram-export-8-15-2026-10_25_43-AM" src="https://github.com/user-attachments/assets/edc37193-c735-4845-81c9-856ec8df5d19" />
+
+Production-grade **AI-powered intake and workflow automation platform** that processes requests from WhatsApp and Outlook, analyzes text and images, detects missing information, classifies risk, and intelligently routes requests for automated or human-assisted action.
+
+**AI Capabilities:** Detail extraction, image style analysis, missing-information detection, artist recommendation, and risk classification.
+
+**Automation:** Low-risk requests receive automated AI responses, while high-risk cases are escalated to a **Telegram Command Center** for human review and approval.
+
+**Infrastructure:** Custom FastAPI backend deployed on **AWS** with automated **CI/CD pipelines** for reliable production deployment and updates.
+
+  </td>
+  </tr>
 </table>
 
 <br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       WORK EXPERIENCE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
