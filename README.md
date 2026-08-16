@@ -143,6 +143,8 @@ Production-grade **AI-powered intake and workflow automation platform** that pro
 ### Daily Storybook AI
 <i>Currently in Apple Apstore Testflight Mode</i>
 
+[![Read Case Study](https://img.shields.io/badge/READ_CASE_STUDY-1F6FEB?style=flat-square&logo=github&logoColor=white)](https://github.com/fahiiim/Case-Study-of-Daily-Storybook-App/blob/main/AI%20Storybook%20%26%20Fitness%20Platform%20-%20Case%20Study.pdf)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-8957E5?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -161,8 +163,6 @@ Production-grade **AI-powered intake and workflow automation platform** that pro
 Scalable event-driven backend for an AI-powered fitness storybook platform using **FastAPI, PostgreSQL, Redis, Docker, ECS, SQS, S3, Bedrock, and EC2**.
 
 Heavy AI workloads were decoupled from the main API using an event-driven microservices architecture to eliminate timeouts and improve system reliability.
-
-[![Read Case Study](https://img.shields.io/badge/READ_CASE_STUDY-1F6FEB?style=flat-square&logo=github&logoColor=white)](https://github.com/fahiiim/Case-Study-of-Daily-Storybook-App/blob/main/AI%20Storybook%20%26%20Fitness%20Platform%20-%20Case%20Study.pdf)
 
   </td>
   </tr>
