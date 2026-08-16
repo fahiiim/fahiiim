@@ -397,7 +397,7 @@ Focus Areas : Generative AI · NLP · Computer Vision · MLOps · XAI
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2FZENODO.18869365-1682D4?style=for-the-badge)](https://zenodo.org/records/18869365)
 
 </div>
-
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/110b784d-c390-4e5d-93f5-da61328a2b9d" />
 NeuroGebra is an open-source symbolic-neural framework for visualizing machine-learning mathematics and neural-network operations in real time.
 
 - Makes model formulas, training behavior, gradients, and neural operations easier to understand.
