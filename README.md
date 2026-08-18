@@ -68,7 +68,8 @@ cross-functional teams and build scalable **backend systems with FastAPI, RAG, O
 ![NLP](https://img.shields.io/badge/NLP-1F6FEB?style=flat-square)
 ![Textract](https://img.shields.io/badge/AWS%20Textract-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-<img width="450" height="106.5" alt="image" src="https://github.com/user-attachments/assets/b11860c9-4307-4ae2-92ed-f435d1833440" />
+<img width="500" height="249" alt="RR-logo-large-wht-500px" src="https://github.com/user-attachments/assets/389a0078-1652-4d9a-8588-036b2adde953" />
+
 
 AI-powered U.S. route-processing platform that extracts route information automatically from permit documents using AWS Textract, OpenAI, NLP, and FastAPI.
 
