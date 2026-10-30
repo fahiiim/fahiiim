@@ -380,34 +380,90 @@ Focus Areas : Generative AI · NLP · Computer Vision · MLOps · XAI
 
 <br/>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  OPEN-SOURCE CONTRIBUTION                       -->
+<!--                       OPEN-SOURCE PROJECTS                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=1&pause=99999&color=58A6FF&center=false&vCenter=true&width=680&height=46&lines=%E2%97%86+OPEN-SOURCE+CONTRIBUTION" alt="Open-Source Contribution"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=1&pause=99999&color=58A6FF&center=false&vCenter=true&width=680&height=46&lines=%E2%97%86+OPEN-SOURCE+PROJECTS" alt="Open-Source Projects"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
 ## NeuroGebra
 
-### `Real Training with Full ML Transparency`
+### `Symbolic-Neural ML Framework`
 
 [![PyPI](https://img.shields.io/badge/PyPI-PUBLISHED-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/neurogebra/)
-[![Documentation](https://img.shields.io/badge/DOCUMENTATION-READTHEDOCS-8CA1AF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://neurogebra.readthedocs.io/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2FZENODO.18869365-1682D4?style=for-the-badge)](https://zenodo.org/records/18869365)
+[![Documentation](https://img.shields.io/badge/DOCS-READTHEDOCS-8CA1AF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://neurogebra.readthedocs.io/)
+[![DOI](https://img.shields.io/badge/DOI-ZENODO-1682D4?style=for-the-badge)](https://zenodo.org/records/18869365)
 
 </div>
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/110b784d-c390-4e5d-93f5-da61328a2b9d" />
-NeuroGebra is an open-source symbolic-neural framework for visualizing machine-learning mathematics and neural-network operations in real time.
 
-- Makes model formulas, training behavior, gradients, and neural operations easier to understand.
-- Works as a learning companion alongside **PyTorch and TensorFlow**.
-- Adopted by **8,000+ students and researchers worldwide**.
-- Published on **PyPI** with public documentation and a permanent DOI.
+<img width="100%" alt="NeuroGebra Framework" src="https://github.com/user-attachments/assets/110b784d-c390-4e5d-93f5-da61328a2b9d"/>
+
+An open-source symbolic-neural framework that bridges mathematical expressions and machine learning, making neural-network operations and training behavior transparent and interpretable.
+
+- **Mathematical Transparency:** Visualizes model formulas, forward/backward propagation, gradients, and training operations.
+- **Multi-Framework Support:** Works alongside PyTorch and TensorFlow, with additional ML framework integrations.
+- **Educational Impact:** Adopted by **8,000+ students and researchers worldwide**.
+- **Research & Development:** Includes symbolic computation, numerical operations, trainable expressions, and a Training Observatory.
+
+**Installation**
 
 ```bash
 pip install neurogebra
 ```
+
+<div align="center">
+
+[GitHub Repository](https://github.com/fahiiim/NeuroGebra) · [PyPI](https://pypi.org/project/neurogebra/) · [Documentation](https://neurogebra.readthedocs.io/)
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## TypoFormer
+
+### `Private, Offline Edge AI Typing Assistant`
+
+[![GitHub](https://img.shields.io/badge/GitHub-OPEN_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahiiim/TyPoTaKer)
+[![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-MODEL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/fahiiim/TypoFormer)
+[![License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](https://github.com/fahiiim/TyPoTaKer/blob/main/LICENSE)
+
+</div>
+
+<a href="https://huggingface.co/fahiiim/TypoFormer">
+<img width="100%" alt="TypoFormer Neural Architecture" src="https://github.com/user-attachments/assets/771c72a1-bed9-44aa-9a26-dd855c277823"/>
+</a>
+
+An original character-aware hybrid Transformer built for real-time typing assistance, combining next-word autocomplete with non-autoregressive typo and grammar correction in a unified neural architecture.
+
+- **Edge AI Performance:** Achieves approximately **10ms CPU inference**, using optimized INT8 ONNX runtimes.
+- **Privacy-First Architecture:** Runs entirely locally with zero cloud dependency, telemetry, or external API calls.
+- **Dual-Task Intelligence:** Combines contextual autocomplete with typo, spelling, and grammar correction.
+- **Research & Deployment:** Includes PyTorch training checkpoints, model architecture, fine-tuning support, ONNX inference, and a native Windows desktop companion.
+
+**Core Technologies**
+
+`PyTorch` `Transformer` `Character-CNN` `GQA` `RoPE` `ONNX` `INT8`
+
+<div align="center">
+
+[GitHub Repository](https://github.com/fahiiim/TyPoTaKer) · [Hugging Face Model](https://huggingface.co/fahiiim/TypoFormer)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
