@@ -432,7 +432,7 @@ pip install neurogebra
 
 ## TypoFormer
 
-### `Private, Offline Edge AI Typing Assistant`
+### `Offline Edge AI Typing Assistant`
 
 [![GitHub](https://img.shields.io/badge/GitHub-OPEN_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahiiim/TyPoTaKer)
 [![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-MODEL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/fahiiim/TypoFormer)
